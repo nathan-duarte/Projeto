@@ -4,10 +4,6 @@ from time import sleep
 
 itens = ('Pedra', 'Papél', 'Tesoura')
 
-jogador = 'Par'
-
-Computador = 'Impar'
-
 computador = randint (0, 2)
 
 print ('Suas opções: [0] Pedra [1] Papél [2] Tesoura')
