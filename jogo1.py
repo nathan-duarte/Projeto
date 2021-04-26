@@ -81,7 +81,7 @@ elif computador == 2: #computador jogou TESOURA
 
     elif jogador == 2:
 
-        print(Empate)
+        print('Empate')
 
     else:
 
