@@ -1,3 +1,5 @@
+#Joguinho Jokenpo em Python
+
 from random import randint
 
 from time import sleep
@@ -26,7 +28,7 @@ print('PO!!!')
 
 print('-=' * 11)
 
-if computador == 0: #computadorjogou PEDRA
+if computador == 0: #computador jogou PEDRA
     
     
     if jogador == 0:
